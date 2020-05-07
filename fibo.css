@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.btn{
+color: green;
+    font-size: 20px;
+    border-radius: 15%;
+}
+
+.limit{
+    font-size: 20px;
+    border-radius: 5%;
+}
